@@ -1,7 +1,7 @@
 # contatos
 
 ## Description
-This is a simple Contact List App made in Flutter
+This is a simple Contact List Example App made in Flutter
 
 ## Details
 ```diff
